@@ -1,0 +1,1 @@
+<form action='search.php' method='GET'><input type='text' name='produto' placeholder="Pesquisar"><button>Pesquisar</button></form></li>
